@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "645002dd7975fecf735c2482"
+  },
+  "name": "Apple Magic Keyboard",
+  "price": 11499,
+  "__v": 0,
+  "image": "https://m.media-amazon.com/images/I/61u6Lojv9pL._SX466_.jpg"
+},
+{
+  "_id": {
+    "$oid": "645018f2d8ac025f8ac04825"
+  },
+  "name": "Apple Magic Mouse",
+  "price": 9500,
+  "image": "https://m.media-amazon.com/images/I/51mdegJVATL._SY741_.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64501941d8ac025f8ac04828"
+  },
+  "name": "Cyber Acoustics Computer Speaker Bar",
+  "price": 2549,
+  "image": "https://m.media-amazon.com/images/I/61-OqSmwfKL._SY450_.jpg",
+  "__v": 0
+}]

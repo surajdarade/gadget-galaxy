@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "656318d12044616563e34d30"
+  },
+  "acctype": "seller",
+  "name": "Suraj",
+  "email": "daradesuraj05@gmail.com",
+  "password": "$2b$10$5CszBPatdG7bvxR7pKbaSecJn6gbr1wHumiNv9zIqa246shhuLDjy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65634aaa3c3c1b8edabb8ae2"
+  },
+  "acctype": "buyer",
+  "name": "New",
+  "email": "new@gmail.com",
+  "password": "$2b$10$94p.aiENGeICYvd7YoNo9eRvxrP/K/UCwXYV/kzeH9dVuAcSaiyou",
+  "__v": 0
+}]

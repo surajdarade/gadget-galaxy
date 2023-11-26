@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "64399f8cd293defcbe4ff2f6"
+  },
+  "name": "MacBook Pro 16”",
+  "price": 349900,
+  "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16-spacegray-select-202301?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1671304673202"
+},
+{
+  "_id": {
+    "$oid": "64501811d8ac025f8ac04820"
+  },
+  "name": "MacBook Air",
+  "price": 154900,
+  "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mba15-midnight-select-202306?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1684518479433",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6450197cd8ac025f8ac0482c"
+  },
+  "name": "Lenovo Legion Pro 7",
+  "price": 359539,
+  "image": "https://m.media-amazon.com/images/I/71ACisutRSL._SY450_.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64501b70d8ac025f8ac04844"
+  },
+  "name": "HP Omen 13th Gen Intel",
+  "price": 362999,
+  "image": "https://m.media-amazon.com/images/I/51Rn5T83J3L._SX569_.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64501cdbd8ac025f8ac0484b"
+  },
+  "name": "ASUS ROG Zephyrus Duo 16 (2023)",
+  "price": 429290,
+  "image": "https://m.media-amazon.com/images/I/812U5LMzf5L._SY450_.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "645b4315c4be1ab8d3a9eb8a"
+  },
+  "name": "Dell Alienware m18 R1",
+  "price": 447490,
+  "image": "https://m.media-amazon.com/images/I/417JIz1AQiL._SY450_.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64744fd276f90ed8aa3393fe"
+  },
+  "name": "MSI Titan GT77 HX",
+  "price": 570990,
+  "image": "https://m.media-amazon.com/images/I/71yWBoj2kuL._SX569_.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647872951df247df7f235109"
+  },
+  "name": "Acer Predator Helios 500",
+  "price": 442605,
+  "image": "https://m.media-amazon.com/images/I/81oz+NZ4QLL._SX569_.jpg",
+  "__v": 0
+}]

@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6439a48b099553e06d014290"
+  },
+  "name": "iMac 24-inch",
+  "price": 129900,
+  "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/imac24-digitalmat-gallery-2-202111?wid=364&hei=333&fmt=png-alpha&.v=1635186198000"
+},
+{
+  "_id": {
+    "$oid": "64501ae3d8ac025f8ac0483c"
+  },
+  "name": "Lenovo IdeaCentre AIO 3 12th GenJacket",
+  "price": 49989,
+  "image": "https://m.media-amazon.com/images/I/61ngWYl5InL._SX450_.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64501c67d8ac025f8ac04847"
+  },
+  "name": "HP All-in-One 12th Gen",
+  "price": 51490,
+  "image": "https://m.media-amazon.com/images/I/61uGZsUJWgL._SY450_.jpg",
+  "__v": 0
+}]
