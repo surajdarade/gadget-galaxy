@@ -1,6 +1,6 @@
 # E-Commerce Project using MEEN Stack
 
-This Gadget Galaxy utilizes the MEEN stack (MongoDB, Express, EJS, Node.js) to build a web application for online shopping. It provides a platform for both buyers and sellers to engage in online transactions.
+Gadget Galaxy utilizes the MEEN stack (MongoDB, Express, EJS, Node.js) to build a web application for online shopping. It provides a platform for both buyers and sellers to engage in online transactions.
 
 ## Project Overview
 
