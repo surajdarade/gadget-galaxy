@@ -1,17 +1,21 @@
-import express, { Request, Response } from 'express';
-import ejs from 'ejs';
+import express from 'express';
 import bodyParser from 'body-parser';
 import session, { SessionOptions } from 'express-session';
-import * as mango from 'mongoose';
 
 import user from './routes/user';
 import products from './routes/products';
 import seller from './routes/seller';
+import dotenv from 'dotenv';
+
+
 
 const app = express();
+
+dotenv.config();
+
 app.set('view engine', 'ejs');
 const mongoose = require('mongoose');
-mango.connect("mongodb://127.0.0.1:27017/gadgetgalaxy", {
+mongoose.connect(process.env.MONGO_URI, {
   serverSelectionTimeoutMS: 5000,
 })
 
@@ -34,7 +38,7 @@ interface SessionConfig extends SessionOptions {
 }
 
 const sessionConfig: SessionConfig = {
-    secret: 'mynameissuraj!',
+    secret: process.env.SESSION_SECRET!,
     resave: false,
     saveUninitialized: true,
     cookie: {
